@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleLayout</string>
+
+    <string name="listTitle">Überschrift</string>
+    <string name="listCaption">Eine schöne Liste</string>
+    <string name="listEntry">Listeneintrag Nr. %d</string>
+</resources>
